@@ -1,0 +1,29 @@
+{
+  "block": "warning",
+  "content": [
+    {
+      "elem": "content",
+      "content": [
+        {
+          "block": "button",
+          "mods": {
+            "size": "s"
+          }
+        }
+      ]
+    },
+    {
+      "block": "placeholder",
+      "mods": {
+        "size": "m"
+      }
+    },
+    {
+      "block": "text",
+      "mods": {
+        "size": "l",
+        "type": "h1"
+      }
+    }
+  ]
+}
